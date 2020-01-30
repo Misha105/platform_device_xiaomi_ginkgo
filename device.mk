@@ -437,3 +437,7 @@ PRODUCT_COPY_FILES += \
 # OTA
 PRODUCT_PACKAGES += \
     Updates
+
+# Offline charging
+PRODUCT_PACKAGES += \
+    charger_res_images
