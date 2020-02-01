@@ -436,7 +436,7 @@ PRODUCT_COPY_FILES += \
 
 # OTA
 PRODUCT_PACKAGES += \
-    Updates
+    Updater
 
 # Offline charging
 PRODUCT_PACKAGES += \
